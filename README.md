@@ -65,4 +65,4 @@ coisa, adicione as letras que faltam em `FONT` seguindo o mesmo formato
 
 ## Licença
 
-Use, modifique e compartilhe à vontade.
+[MIT](LICENSE) — use, modifique e compartilhe à vontade.
