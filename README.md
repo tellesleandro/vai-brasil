@@ -5,6 +5,8 @@ letras gigantes tecidas com símbolos UTF-8, bandeiras do Brasil desenhadas
 geometricamente e um céu estrelado ao fundo. Feito para tirar aquele print
 e postar nas redes em dia de jogo.
 
+![VAI BRASIL !!!](screenshot.png)
+
 ## Como usar
 
 Só precisa de Python 3 (sem dependências externas):
